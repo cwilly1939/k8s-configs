@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Removed unused variable declarations
 - Improved error handling in edge cases
 - Resolved TODO items from previous session
+
+## 2026-03-22
+- Tidied up project structure
