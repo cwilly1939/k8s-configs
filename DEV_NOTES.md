@@ -18,3 +18,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Refactored module structure for clarity
 - Tested build on clean environment
+
+## 2026-03-23
+- Reviewed open issues, added labels
+- Added CONTRIBUTING.md stub
